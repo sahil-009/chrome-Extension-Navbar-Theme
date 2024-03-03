@@ -1,2 +1,2 @@
 # chrome-Extension-Navbar-Theme
-This is chrome extension for customize nav bar
+This is chrome extension for customize Tab
