@@ -1,6 +1,6 @@
 # chrome-Extension-Theme-Tab
 This is chrome extension for customize Tab
-##setup
+<h1>setup</h1>
 
 <h2>search</h2>
 
