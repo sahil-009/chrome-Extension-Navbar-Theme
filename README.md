@@ -3,6 +3,7 @@ This is chrome extension for customize Tab
 ##setup
 
 <h2>search</h2>
+
 ```
 chrome://extensions
 ```
